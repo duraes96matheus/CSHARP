@@ -1,0 +1,12 @@
+C:\Users\Matheus\AppData\Local\Temporary Projects\TCC\bin\Debug\TCC.exe
+C:\Users\Matheus\AppData\Local\Temporary Projects\TCC\bin\Debug\TCC.pdb
+C:\Users\Matheus\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Users\Matheus\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Matheus\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Matheus\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.pdb
+C:\Users\Matheus\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.TeladeCadastroSolicitante.resources
+C:\Users\Matheus\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.Home.resources
+C:\Users\Matheus\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.LoginSolicitante.resources
+C:\Users\Matheus\AppData\Local\Temporary Projects\TCC\obj\x86\Debug\TCC.Teladecadastroprestador.resources
+C:\Users\Matheus\Desktop\C++\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Matheus\Desktop\C++\TCC\TCC\obj\x86\Debug\TCC.pdb
