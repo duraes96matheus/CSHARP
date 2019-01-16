@@ -1,0 +1,9 @@
+C:\Users\Matheus\AppData\Local\Temporary Projects\CalculadoraMedia\obj\x86\Debug\CalculadoraMedia.Form1.resources
+C:\Users\Matheus\AppData\Local\Temporary Projects\CalculadoraMedia\obj\x86\Debug\CalculadoraMedia.Properties.Resources.resources
+C:\Users\Matheus\AppData\Local\Temporary Projects\CalculadoraMedia\obj\x86\Debug\CalculadoraMedia.csproj.GenerateResource.Cache
+C:\Users\Matheus\AppData\Local\Temporary Projects\CalculadoraMedia\bin\Debug\CalculadoraMedia.exe
+C:\Users\Matheus\AppData\Local\Temporary Projects\CalculadoraMedia\bin\Debug\CalculadoraMedia.pdb
+C:\Users\Matheus\AppData\Local\Temporary Projects\CalculadoraMedia\obj\x86\Debug\CalculadoraMedia.exe
+C:\Users\Matheus\AppData\Local\Temporary Projects\CalculadoraMedia\obj\x86\Debug\CalculadoraMedia.pdb
+C:\Users\Matheus\Desktop\C++\CalculadoraMedia\CalculadoraMedia\obj\x86\Debug\CalculadoraMedia.exe
+C:\Users\Matheus\Desktop\C++\CalculadoraMedia\CalculadoraMedia\obj\x86\Debug\CalculadoraMedia.pdb
