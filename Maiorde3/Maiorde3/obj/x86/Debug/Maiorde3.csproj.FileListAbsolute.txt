@@ -1,0 +1,16 @@
+C:\Users\Matheus\AppData\Local\Temporary Projects\Maiorde3\bin\Debug\Maiorde3.exe
+C:\Users\Matheus\AppData\Local\Temporary Projects\Maiorde3\bin\Debug\Maiorde3.pdb
+C:\Users\Matheus\AppData\Local\Temporary Projects\Maiorde3\obj\x86\Debug\Maiorde3.Form1.resources
+C:\Users\Matheus\AppData\Local\Temporary Projects\Maiorde3\obj\x86\Debug\Maiorde3.Properties.Resources.resources
+C:\Users\Matheus\AppData\Local\Temporary Projects\Maiorde3\obj\x86\Debug\Maiorde3.csproj.GenerateResource.Cache
+C:\Users\Matheus\AppData\Local\Temporary Projects\Maiorde3\obj\x86\Debug\Maiorde3.exe
+C:\Users\Matheus\AppData\Local\Temporary Projects\Maiorde3\obj\x86\Debug\Maiorde3.pdb
+C:\Users\Matheus\Desktop\C++\Maiorde3\Maiorde3\obj\x86\Debug\Maiorde3.exe
+C:\Users\Matheus\Desktop\C++\Maiorde3\Maiorde3\obj\x86\Debug\Maiorde3.pdb
+C:\Users\Matheus\Desktop\Git\CSHARP\Maiorde3\Maiorde3\obj\x86\Debug\Maiorde3.exe
+C:\Users\Matheus\Desktop\Git\CSHARP\Maiorde3\Maiorde3\obj\x86\Debug\Maiorde3.pdb
+C:\Users\Matheus\Desktop\Git\CSHARP\Maiorde3\Maiorde3\bin\Debug\Maiorde3.exe
+C:\Users\Matheus\Desktop\Git\CSHARP\Maiorde3\Maiorde3\bin\Debug\Maiorde3.pdb
+C:\Users\Matheus\Desktop\Git\CSHARP\Maiorde3\Maiorde3\obj\x86\Debug\Maiorde3.Form1.resources
+C:\Users\Matheus\Desktop\Git\CSHARP\Maiorde3\Maiorde3\obj\x86\Debug\Maiorde3.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Git\CSHARP\Maiorde3\Maiorde3\obj\x86\Debug\Maiorde3.csproj.GenerateResource.Cache
