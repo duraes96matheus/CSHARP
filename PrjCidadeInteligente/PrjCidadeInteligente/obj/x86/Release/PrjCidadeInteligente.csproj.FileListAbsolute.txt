@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\Nova pasta\PrjCidadeInteligente\PrjCidadeInteligente\obj\x86\Release\PrjCidadeInteligente.Cliente.resources
+C:\Users\Aluno\Desktop\Nova pasta\PrjCidadeInteligente\PrjCidadeInteligente\obj\x86\Release\PrjCidadeInteligente.Form1.resources
+C:\Users\Aluno\Desktop\Nova pasta\PrjCidadeInteligente\PrjCidadeInteligente\obj\x86\Release\PrjCidadeInteligente.Funcionario.resources
+C:\Users\Aluno\Desktop\Nova pasta\PrjCidadeInteligente\PrjCidadeInteligente\obj\x86\Release\PrjCidadeInteligente.Pessoa.resources
+C:\Users\Aluno\Desktop\Nova pasta\PrjCidadeInteligente\PrjCidadeInteligente\obj\x86\Release\PrjCidadeInteligente.PessoaDocumento.resources
+C:\Users\Aluno\Desktop\Nova pasta\PrjCidadeInteligente\PrjCidadeInteligente\obj\x86\Release\PrjCidadeInteligente.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta\PrjCidadeInteligente\PrjCidadeInteligente\obj\x86\Release\PrjCidadeInteligente.csproj.GenerateResource.Cache
