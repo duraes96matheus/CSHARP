@@ -1,0 +1,44 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\bin\Debug\Exercicios.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.frmMenu.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Ativiade1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade2.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade3.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade4.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade5.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade6.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade7.resources
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.exe
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.pdb
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\bin\Debug\Exercicios.exe
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Ativiade1.resources
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade2.resources
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade3.resources
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade4.resources
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade5.resources
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade6.resources
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade7.resources
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.frmMenu.resources
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\Exercicios\Exercicios\obj\x86\Debug\Exercicios.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.exe
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.pdb
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Ativiade1.resources
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade2.resources
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade3.resources
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade4.resources
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade5.resources
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade6.resources
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Atividade7.resources
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.frmMenu.resources
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\obj\x86\Debug\Exercicios.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\bin\Debug\Exercicios.exe
+C:\Users\Matheus\Desktop\Git\CSHARP\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
