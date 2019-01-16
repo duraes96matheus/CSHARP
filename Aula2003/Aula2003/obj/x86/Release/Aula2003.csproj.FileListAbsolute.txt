@@ -1,0 +1,4 @@
+C:\Users\Aluno\Desktop\Aula2003\Aula2003\bin\Release\Aula2003.exe
+C:\Users\Aluno\Desktop\Aula2003\Aula2003\bin\Release\Aula2003.pdb
+C:\Users\Aluno\Desktop\Aula2003\Aula2003\obj\x86\Release\Aula2003.exe
+C:\Users\Aluno\Desktop\Aula2003\Aula2003\obj\x86\Release\Aula2003.pdb
