@@ -1,0 +1,11 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Aula1303\bin\Debug\Aula1303.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Aula1303\bin\Debug\Aula1303.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Aula1303\obj\x86\Debug\Aula1303.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Aula1303\obj\x86\Debug\Aula1303.pdb
+C:\Users\Aluno_2\Desktop\Aula1303\Aula1303\obj\x86\Debug\Aula1303.exe
+C:\Users\Aluno_2\Desktop\Aula1303\Aula1303\obj\x86\Debug\Aula1303.pdb
+C:\Users\Matheus\Desktop\Git\DSI\Aula1303\Aula1303\obj\x86\Debug\Aula1303.exe
+C:\Users\Matheus\Desktop\Git\DSI\Aula1303\Aula1303\obj\x86\Debug\Aula1303.pdb
+C:\Users\Matheus\Desktop\Git\DSI\Aula1303\Aula1303\bin\Debug\Aula1303.exe
+C:\Users\Matheus\Desktop\Git\DSI\Aula1303\Aula1303\bin\Debug\Aula1303.pdb
+C:\Users\Matheus\Desktop\Git\DSI\Aula1303\Aula1303\obj\x86\Debug\Aula1303.csprojResolveAssemblyReference.cache
