@@ -1,0 +1,7 @@
+C:\Users\Matheus\Desktop\PortableGit\DS\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\CalculadoraCsharp.exe
+C:\Users\Matheus\Desktop\PortableGit\DS\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\CalculadoraCsharp.pdb
+C:\Users\Matheus\Desktop\PortableGit\DS\CalculadoraCsharp\CalculadoraCsharp\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Matheus\Desktop\PortableGit\DS\CalculadoraCsharp\CalculadoraCsharp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Matheus\Desktop\PortableGit\DS\CalculadoraCsharp\CalculadoraCsharp\obj\x86\Debug\CalculadoraCsharp.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\PortableGit\DS\CalculadoraCsharp\CalculadoraCsharp\obj\x86\Debug\CalculadoraCsharp.exe
+C:\Users\Matheus\Desktop\PortableGit\DS\CalculadoraCsharp\CalculadoraCsharp\obj\x86\Debug\CalculadoraCsharp.pdb
