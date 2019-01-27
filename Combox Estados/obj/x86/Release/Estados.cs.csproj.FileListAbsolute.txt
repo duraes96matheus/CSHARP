@@ -1,0 +1,7 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\bin\Release\Estados.cs.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\bin\Release\Estados.cs.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\obj\x86\Release\Estados.cs.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\obj\x86\Release\Estados.cs.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\obj\x86\Release\Estados.cs.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\obj\x86\Release\Estados.cs.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\obj\x86\Release\Estados.cs.pdb

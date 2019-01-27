@@ -1,0 +1,14 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\bin\Debug\Estados.cs.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\bin\Debug\Estados.cs.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\obj\x86\Debug\Estados.cs.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\obj\x86\Debug\Estados.cs.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\obj\x86\Debug\Estados.cs.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\obj\x86\Debug\Estados.cs.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Estados.cs\Estados.cs\obj\x86\Debug\Estados.cs.pdb
+G:\Estados.cs\Estados.cs\obj\x86\Debug\Estados.cs.exe
+G:\Estados.cs\Estados.cs\obj\x86\Debug\Estados.cs.pdb
+G:\Estados.cs\Estados.cs\bin\Debug\Estados.cs.exe
+G:\Estados.cs\Estados.cs\bin\Debug\Estados.cs.pdb
+G:\Estados.cs\Estados.cs\obj\x86\Debug\Estados.cs.Form1.resources
+G:\Estados.cs\Estados.cs\obj\x86\Debug\Estados.cs.Properties.Resources.resources
+G:\Estados.cs\Estados.cs\obj\x86\Debug\Estados.cs.csproj.GenerateResource.Cache
