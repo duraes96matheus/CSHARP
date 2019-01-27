@@ -1,0 +1,7 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\Etec.SistemaVotacao\Etec.SistemaVotacao.View2\bin\Debug\Etec.SistemaVotacao.View2.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Etec.SistemaVotacao\Etec.SistemaVotacao.View2\bin\Debug\Etec.SistemaVotacao.View2.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Etec.SistemaVotacao\Etec.SistemaVotacao.View2\obj\x86\Debug\Etec.SistemaVotacao.View2.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Etec.SistemaVotacao\Etec.SistemaVotacao.View2\obj\x86\Debug\Etec.SistemaVotacao.View2.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Etec.SistemaVotacao\Etec.SistemaVotacao.View2\obj\x86\Debug\Etec.SistemaVotacao.View2.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\Etec.SistemaVotacao\Etec.SistemaVotacao.View2\obj\x86\Debug\Etec.SistemaVotacao.View2.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Etec.SistemaVotacao\Etec.SistemaVotacao.View2\obj\x86\Debug\Etec.SistemaVotacao.View2.pdb
