@@ -1,0 +1,22 @@
+C:\Users\Matheus\documents\visual studio 2010\Projects\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Matheus\documents\visual studio 2010\Projects\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\WindowsFormsApplication1.NovaAgenda.resources
+C:\Users\Matheus\documents\visual studio 2010\Projects\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\WindowsFormsApplication1.NovoCliente.resources
+C:\Users\Matheus\documents\visual studio 2010\Projects\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\WindowsFormsApplication1.NovoFuncionario.resources
+C:\Users\Matheus\documents\visual studio 2010\Projects\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Matheus\documents\visual studio 2010\Projects\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\AppdeCadastramento.csproj.GenerateResource.Cache
+C:\Users\Matheus\documents\visual studio 2010\Projects\AppdeCadastramento\AppdeCadastramento\bin\Debug\AppdeCadastramento.exe
+C:\Users\Matheus\documents\visual studio 2010\Projects\AppdeCadastramento\AppdeCadastramento\bin\Debug\AppdeCadastramento.pdb
+C:\Users\Matheus\documents\visual studio 2010\Projects\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\AppdeCadastramento.exe
+C:\Users\Matheus\documents\visual studio 2010\Projects\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\AppdeCadastramento.pdb
+C:\Users\Matheus\documents\visual studio 2010\Projects\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\AppdeCadastramento.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\AppdeCadastramento.exe
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\AppdeCadastramento.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\AppdeCadastramento\AppdeCadastramento\bin\Debug\AppdeCadastramento.exe
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\AppdeCadastramento\AppdeCadastramento\bin\Debug\AppdeCadastramento.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\AppdeCadastramento.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\WindowsFormsApplication1.NovaAgenda.resources
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\WindowsFormsApplication1.NovoCliente.resources
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\WindowsFormsApplication1.NovoFuncionario.resources
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\AppdeCadastramento\AppdeCadastramento\obj\x86\Debug\AppdeCadastramento.csproj.GenerateResource.Cache
