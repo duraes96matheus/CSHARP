@@ -1,0 +1,20 @@
+F:\CidadeInteligente\Classes\bin\Debug\Classes.dll
+F:\CidadeInteligente\Classes\bin\Debug\Classes.pdb
+F:\CidadeInteligente\Classes\obj\Debug\Classes.dll
+F:\CidadeInteligente\Classes\obj\Debug\Classes.pdb
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\bin\Debug\Classes.dll
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\bin\Debug\Classes.pdb
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\obj\Debug\Classes.dll
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\obj\Debug\Classes.pdb
+C:\Users\Aluno\Desktop\CidadeInteligente\CidadeInteligente\Classes\bin\Debug\Classes.dll
+C:\Users\Aluno\Desktop\CidadeInteligente\CidadeInteligente\Classes\bin\Debug\Classes.pdb
+C:\Users\Aluno\Desktop\CidadeInteligente\CidadeInteligente\Classes\obj\Debug\Classes.dll
+C:\Users\Aluno\Desktop\CidadeInteligente\CidadeInteligente\Classes\obj\Debug\Classes.pdb
+G:\ETEC3\CSHARP\CidadeInteligente\Classes\bin\Debug\Classes.dll
+G:\ETEC3\CSHARP\CidadeInteligente\Classes\bin\Debug\Classes.pdb
+G:\ETEC3\CSHARP\CidadeInteligente\Classes\obj\Debug\Classes.dll
+G:\ETEC3\CSHARP\CidadeInteligente\Classes\obj\Debug\Classes.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\CidadeInteligente\Classes\bin\Debug\Classes.dll
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\CidadeInteligente\Classes\bin\Debug\Classes.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\CidadeInteligente\Classes\obj\Debug\Classes.dll
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\CidadeInteligente\Classes\obj\Debug\Classes.pdb

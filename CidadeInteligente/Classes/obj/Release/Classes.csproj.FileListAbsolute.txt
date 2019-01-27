@@ -1,0 +1,9 @@
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\bin\Release\Classes.dll
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\bin\Release\Classes.pdb
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\obj\Release\Classes.dll
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\obj\Release\Classes.pdb
+F:\projetos\Csharp\CidadeInteligente\CidadeInteligente\Classes\obj\Release\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\CidadeInteligente\CidadeInteligente\Classes\bin\Release\Classes.dll
+C:\Users\Aluno\Desktop\CidadeInteligente\CidadeInteligente\Classes\bin\Release\Classes.pdb
+C:\Users\Aluno\Desktop\CidadeInteligente\CidadeInteligente\Classes\obj\Release\Classes.dll
+C:\Users\Aluno\Desktop\CidadeInteligente\CidadeInteligente\Classes\obj\Release\Classes.pdb
