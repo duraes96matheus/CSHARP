@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Classes\bin\Debug\Classes.dll
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Classes\bin\Debug\Classes.pdb
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Classes\obj\Debug\Classes.dll
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Classes\obj\Debug\Classes.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\Aula1308\Classes\bin\Debug\Classes.dll
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\Aula1308\Classes\bin\Debug\Classes.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\Aula1308\Classes\obj\Debug\Classes.dll
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\Aula1308\Classes\obj\Debug\Classes.pdb

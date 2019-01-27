@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Aula1308\bin\Release\Aula1308.exe
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Aula1308\bin\Release\Aula1308.pdb
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Aula1308\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Aula1308\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Aula1308\obj\x86\Release\Aula1308.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Aula1308\obj\x86\Release\Aula1308.exe
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Aula1308\obj\x86\Release\Aula1308.pdb
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Aula1308\bin\Release\Classes.dll
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Aula1308\bin\Release\Classes.pdb
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Aula1308\obj\x86\Release\Aula1308.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta\Aula1308\Aula1308\obj\x86\Release\WindowsFormsApplication1.CadastrarClientes.resources
