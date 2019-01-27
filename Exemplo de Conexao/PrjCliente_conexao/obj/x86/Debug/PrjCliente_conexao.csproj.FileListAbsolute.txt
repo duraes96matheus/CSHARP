@@ -1,0 +1,27 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\BD_ Cliente.accdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe.config
+C:\Users\Aluno\Desktop\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe.config
+C:\Users\Aluno\Desktop\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.exe
+C:\Users\Aluno\Desktop\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Form1.resources
+C:\Users\Aluno\Desktop\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Properties.Resources.resources
+C:\Users\Aluno\Desktop\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\BD_ Cliente.accdb
+C:\Users\Aluno\Desktop\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe
+C:\Users\Aluno\Desktop\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.pdb
+C:\Users\Aluno\Desktop\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe.config
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.exe
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\BD_ Cliente.accdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.exe
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\PrjCliente_conexao\PrjCliente_conexao\bin\Debug\PrjCliente_conexao.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Form1.resources
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.Properties.Resources.resources
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Debug\PrjCliente_conexao.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\bin\Release\PrjCliente_conexao.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\bin\Release\PrjCliente_conexao.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Release\PrjCliente_conexao.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Release\PrjCliente_conexao.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Release\PrjCliente_conexao.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Release\PrjCliente_conexao.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\PrjCliente_conexao\PrjCliente_conexao\obj\x86\Release\PrjCliente_conexao.pdb
