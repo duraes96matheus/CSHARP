@@ -1,0 +1,12 @@
+C:\Users\Aluno\Desktop\Aula2708\Aula2708\Aula2708\bin\Debug\Aula2708.exe
+C:\Users\Aluno\Desktop\Aula2708\Aula2708\Aula2708\bin\Debug\Aula2708.pdb
+C:\Users\Aluno\Desktop\Aula2708\Aula2708\Aula2708\obj\x86\Debug\Aula2708.CadastraFun.resources
+C:\Users\Aluno\Desktop\Aula2708\Aula2708\Aula2708\obj\x86\Debug\Aula2708.CadastrarClie.resources
+C:\Users\Aluno\Desktop\Aula2708\Aula2708\Aula2708\obj\x86\Debug\Aula2708.Home.resources
+C:\Users\Aluno\Desktop\Aula2708\Aula2708\Aula2708\obj\x86\Debug\Aula2708.NovaConsulta.resources
+C:\Users\Aluno\Desktop\Aula2708\Aula2708\Aula2708\obj\x86\Debug\Aula2708.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Aula2708\Aula2708\Aula2708\obj\x86\Debug\Aula2708.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Aula2708\Aula2708\Aula2708\obj\x86\Debug\Aula2708.exe
+C:\Users\Aluno\Desktop\Aula2708\Aula2708\Aula2708\obj\x86\Debug\Aula2708.pdb
+H:\ETEC3\CSHARP\ProjetoAula27082018\Aula2708\Aula2708\Aula2708\obj\x86\Debug\Aula2708.exe
+H:\ETEC3\CSHARP\ProjetoAula27082018\Aula2708\Aula2708\Aula2708\obj\x86\Debug\Aula2708.pdb

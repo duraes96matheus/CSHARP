@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.exe
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.pdb
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Medico.resources
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.exe
+C:\Users\Aluno\Desktop\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.exe
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\ProjetoAula27082018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.exe
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\ProjetoAula27082018\ProjetoAula27082018\bin\Debug\ProjetoAula27082018.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Medico.resources
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\teste.Properties.Resources.resources
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP 3\ProjetoAula27082018\ProjetoAula27082018\obj\x86\Debug\ProjetoAula27082018.csproj.GenerateResource.Cache
