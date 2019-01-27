@@ -1,0 +1,25 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\frmMenu\bin\Debug\frmMenu.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\frmMenu\bin\Debug\frmMenu.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\frmMenu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\frmMenu\obj\x86\Debug\frmMenu.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\frmMenu\obj\x86\Debug\frmMenu.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\frmMenu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\frmMenu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\frmMenu\obj\x86\Debug\frmMenu.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\frmMenu\obj\x86\Debug\frmMenu.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\frmMenu\frmMenu\obj\x86\Debug\frmMenu.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\frmMenu\frmMenu\obj\x86\Debug\frmMenu.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\frmMenu\frmMenu\bin\Debug\frmMenu.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\frmMenu\frmMenu\bin\Debug\frmMenu.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\frmMenu\frmMenu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\frmMenu\frmMenu\obj\x86\Debug\frmMenu.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\frmMenu\frmMenu\obj\x86\Debug\frmMenu.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\frmMenu\frmMenu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\documents\visual studio 2010\Projects\frmMenu\frmMenu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\frmMenu\frmMenu\obj\x86\Debug\frmMenu.exe
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\frmMenu\frmMenu\obj\x86\Debug\frmMenu.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\frmMenu\frmMenu\bin\Debug\frmMenu.exe
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\frmMenu\frmMenu\bin\Debug\frmMenu.pdb
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\frmMenu\frmMenu\obj\x86\Debug\frmMenu.Form1.resources
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\frmMenu\frmMenu\obj\x86\Debug\frmMenu.Properties.Resources.resources
+C:\Users\Matheus\Desktop\FinalizandoEtec\Gitar\CSHARP\frmMenu\frmMenu\obj\x86\Debug\frmMenu.csproj.GenerateResource.Cache
